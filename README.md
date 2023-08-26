@@ -1,5 +1,5 @@
 - 👋 Hi, saya @Zaki-Basalamah
-- 👀  Real estate marketing
+- 👀 Javascript Backend-Node.js
 - 🌱 Saya bekerja di CV Utama Karya
 - Teluk Bayur Utama Residence
 - 💞️ minat email marketing
